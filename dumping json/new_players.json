@@ -1,0 +1,180 @@
+{
+  "lastUpdatedOn": "2022-04-13T06:42:39.358Z",
+  "teams": [
+    {
+      "id": 91,
+      "name": "Mayank Agarwal",
+      "age": 31
+    },
+    {
+      "id": 92,
+      "name": "Ravichandran Ashwin",
+      "age": 35
+    },
+    {
+      "id": 93,
+      "name": "Avesh Khan",
+      "age": 25
+    },
+    {
+      "id": 94,
+      "name": "Simran Bahadur",
+      "age": 22
+    },
+    {
+      "id": 95,
+      "name": "Taniya Bhatia",
+      "age": 24
+    },
+    {
+      "id": 96,
+      "name": "Yastika Bhatia",
+      "age": 21
+    },
+    {
+      "id": 97,
+      "name": "Ekta Bisht",
+      "age": 36
+    },
+    {
+      "id": 98,
+      "name": "Jasprit Bumrah",
+      "age": 28
+    },
+    {
+      "id": 99,
+      "name": "Yuzvendra Chahal",
+      "age": 31
+    },
+    {
+      "id": 99,
+      "name": "Bhuvneshwar Kumar",
+      "age": 32
+    },
+    {
+      "id": 100,
+      "name": "Virat Kohli",
+      "age": 33
+    },
+    {
+      "id": 101,
+      "name": "Smriti Mandhana",
+      "age": 25
+    },
+    {
+      "id": 102,
+      "name": "Sabbhineni Meghana",
+      "age": 25
+    },
+    {
+      "id": 103,
+      "name": "Meghna Singh",
+      "age": 27
+    },
+    {
+      "id": 104,
+      "name": "Mohammed Shami",
+      "age": 31
+    },
+    {
+      "id": 105,
+      "name": "Mohammed Siraj",
+      "age": 28
+    },
+    {
+      "id": 106,
+      "name": "Devdutt Padikkal",
+      "age": 21
+    },
+    {
+      "id": 107,
+      "name": "Manish Pandey",
+      "age": 32
+    },
+    {
+      "id": 108,
+      "name": "Shikha Pandey",
+      "age": 32
+    },
+    {
+      "id": 109,
+      "name": "Hardik Pandya",
+      "age": 28
+    },
+    {
+      "id": 110,
+      "name": "Krunal Pandya",
+      "age": 31
+    },
+    {
+      "id": 111,
+      "name": "Rishabh Pant",
+      "age": 24
+    },
+    {
+      "id": 112,
+      "name": "Axar Patel",
+      "age": 28
+    },
+    {
+      "id": 113,
+      "name": "Harshal Patel",
+      "age": 31
+    },
+    {
+      "id": 114,
+      "name": "Poonam Yadav",
+      "age": 30
+    },
+    {
+      "id": 115,
+      "name": "Prasidh Krishna",
+      "age": 26
+    },
+    {
+      "id": 116,
+      "name": "Cheteshwar Pujara",
+      "age": 34
+    },
+    {
+      "id": 117,
+      "name": "Ajinkya Rahane",
+      "age": 33
+    },
+    {
+      "id": 118,
+      "name": "KL Rahul",
+      "age": 29
+    },
+    {
+      "id": 119,
+      "name": "Mithali Raj",
+      "age": 39
+    },
+    {
+      "id": 120,
+      "name": "Nitish Rana",
+      "age": 28
+    },
+    {
+      "id": 121,
+      "name": "Sneh Rana",
+      "age": 28
+    },
+    {
+      "id": 122,
+      "name": "Punam Raut",
+      "age": 32
+    },
+    {
+      "id": 123,
+      "name": "Ravi Bishnoi",
+      "age": 21
+    },
+    {
+      "id": 124,
+      "name": "Arundhati Reddy",
+      "age": 24
+    }
+  ]
+}
